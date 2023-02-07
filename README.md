@@ -2,7 +2,7 @@
 - 👀 I’m interested in listening
 - 🌱 I’m currently learning Robotic in UET-VNU
 - 💞️ I’m looking to collaborate on Machine Learning, Multimedia
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/ndamtruong2k/
 
 <!---
 ndamtruong2k/ndamtruong2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
