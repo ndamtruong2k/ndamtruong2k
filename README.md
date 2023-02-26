@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nguyễn Đam Trường
 - 👀 I’m interested in listening
-- 🌱 I’m currently learning Robotic in UET-VNU
-- 💞️ I’m looking to collaborate on Machine Learning, Multimedia
+- 💞️ I’m looking to collaborate on Machine Learning, Multimedia, Swarm Robot
 - 📫 How to reach me https://www.linkedin.com/in/ndamtruong2k/
 
 <!---
