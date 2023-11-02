@@ -34,7 +34,8 @@
 
 ### Activity 👩‍💻
 
-![DamTruong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndamtruong2k&theme=tokyonight)
+![DamTruong's wakatime stats](https://github-readme-stats.vercel.app/api?username=ndamtruong2k&show_icons=true&theme=radical)
+
 <!---
 ndamtruong2k/ndamtruong2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
