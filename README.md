@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning, Multimedia, Swarm Robot
 - 📫 How to reach me https://www.linkedin.com/in/ndamtruong2k/
   
-![view counter](https://komarev.com/ghpvc/?username=hoangtran0410&label=Profile%20views&color=0e75b6&style=flat-square)
+![view counter](https://komarev.com/ghpvc/?username=ndamtruong2k&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ### Connect with me 👀
 <!--<p align="left">
